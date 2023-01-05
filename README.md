@@ -8,5 +8,5 @@ A 2D endless runner slash platformer mobile game developed using Unity.
 
 ### Screenshots
 
-<img width=400 src="https://img.itch.zone/aW1hZ2UvMTg2MzQwMC8xMDk0ODM1My5wbmc=/original/N2zL1f.png">
-<img width=400 src="https://img.itch.zone/aW1hZ2UvMTg2MzQwMC8xMDk0ODU4Mi5wbmc=/original/GnimKE.png">
+<img height=400 src="https://img.itch.zone/aW1hZ2UvMTg2MzQwMC8xMDk0ODM1My5wbmc=/original/N2zL1f.png">
+<img height=400 src="https://img.itch.zone/aW1hZ2UvMTg2MzQwMC8xMDk0ODU4Mi5wbmc=/original/GnimKE.png">
