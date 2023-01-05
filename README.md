@@ -1,7 +1,7 @@
 ### Quarantine Dash
 <img height=300 src="https://img.itch.zone/aW1nLzEwOTQ4NTg1LnBuZw==/original/QyhShK.png">
 
-A 2D endless runner slash platformer mobile game developed using Unity.
+A 2D endless runner and platformer mobile game developed using Unity.
 
 🎮 **[Itch.io Page](https://alexyz.itch.io/quarantine-dash)**  
 🎞 **[Video Demo](https://youtu.be/wzGvP5jz038)**
