@@ -4,7 +4,7 @@
 A 2D endless runner slash platformer mobile game developed using Unity.
 
 🎮 **[Itch.io Page](https://alexyz.itch.io/quarantine-dash)**  
-🎞 **[Video Demo]()**
+🎞 **[Video Demo](https://youtu.be/wzGvP5jz038)**
 
 ### Screenshots
 
